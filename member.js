@@ -5,4 +5,4 @@ function skillsMember()
     var projects = document.getElementById("projects");
     var contact = document.getElementById("contact");
     var about = document.getElementById("about");
-    var home = document.getElementById("home");
+    var home = document.getElementById("home");}
